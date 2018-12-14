@@ -1,4 +1,4 @@
-## Hadoop MapReduce Twitter Followers Count Program
+## MapReduce implementation of Twitter Followers count sorting
 
 CS6240 - Fall 2018 Assignment 4
 

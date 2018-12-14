@@ -1,5 +1,4 @@
-
-## Hadoop MapReduce Twitter Followers Count Program
+## MapReduce implementation of Triangle counting using Rep Join
 
 CS6240 - Fall 2018 Assignment 1 
 

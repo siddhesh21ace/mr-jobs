@@ -1,4 +1,4 @@
-## Hadoop MapReduce Twitter Followers Count Program
+## MapReduce implementation of K Means Clustering
 
 CS6240 - Fall 2018 Assignment 4
 
